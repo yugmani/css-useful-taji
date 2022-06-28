@@ -44,3 +44,14 @@ h1 {
   font-weight: bold;
   font-size: 1.5rem;
 }
+
+.badge {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: RGB(48, 209, 88);
+  color: white;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
